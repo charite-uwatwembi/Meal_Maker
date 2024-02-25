@@ -9,7 +9,7 @@ Use the setter methods to set the meal and price for Today's Special.
 Use the getter method to retrieve and display Today's Special.
 
 
-##Example:
+## Example:
 
 Today's Special is Spaghetti for $5!
 Additional Features
